@@ -1,0 +1,2 @@
+$(".abc").click()
+$change
